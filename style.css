@@ -1,0 +1,15 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    font-style: oblique;
+    }
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    font-style: oblique;
+    }
+ol {
+    font-family: monospace;
+    font-style: italic;
+    font-size: larger;
+    }
