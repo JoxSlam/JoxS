@@ -2,14 +2,18 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: brown;
     font-style: oblique;
+    font-size: 50px;
+    font-variant:small-caps;
     }
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: brown;
+    color: rgb(207, 68, 68);
     font-style: oblique;
     }
 ol {
     font-family: monospace;
     font-style: italic;
     font-size: larger;
+    text-decoration: underline;
     }
+
